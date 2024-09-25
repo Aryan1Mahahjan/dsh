@@ -1,6 +1,6 @@
 # dsh
 
-This is basic shell that has 3 bultin functions : 
- 1.cd
- 2.help 
- 3.function 
+This is basic shell that has 3 bultin functions : \n
+ 1.cd\n
+ 2.help\n 
+ 3.function\n 
